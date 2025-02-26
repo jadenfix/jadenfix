@@ -21,7 +21,8 @@
 
 - 📫 How to reach me: **jpfix@calpoly.edu**  
 
-- 📄 See my (hopefully) updated resume [here](https://github.com/jadenfix/resume/blob/main/Resume%20-%20Jaden%20Fix.pdf)  
+- 📄 See my (hopefully) updated resume [here](https://github.com/jadenfix/resume/blob/main/Resume%20-%20Jaden%20Fix.pdf)
+- I am seeking roles beginning June 2025 nationwide (preferably SF/NYC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
