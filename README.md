@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **quantitative strategy, blockchain technologies, and NLP/LLMs**
 
-- 📫 How to reach me **jadenfix20@gmail.com**
+- 📫 How to reach me **jpfix@calpoly.edu**
 
 - 📄 Know about my experiences [https://github.com/jadenfix/resume/blob/main/Resume%20-%20Jaden%20Fix.pdf](https://github.com/jadenfix/resume/blob/main/Resume%20-%20Jaden%20Fix.pdf)
 
