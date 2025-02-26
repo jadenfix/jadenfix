@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaden</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Scientist & Economic Researcher</h3>
 
 - 🔭 I’m currently working on [Solana cryptocurrency platforms](https://github.com/jadenfix/solanatools)  
 
