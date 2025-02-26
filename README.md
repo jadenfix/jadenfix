@@ -11,6 +11,8 @@
 
 - 🤖 Explore my **Natural Language Processing project** [here](https://github.com/jadenfix/NLP)  
 
+- 🧠 Dive into my **Bayesian Neural Network for CIFAR-10 Image Classification** [here](https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification)  
+
 - 👨‍💻 All of my projects are available [here](https://github.com/jadenfix?tab=repositories)  
 
 - 🚴/🏃/🏊 Catch my latest training on Strava [here](https://www.strava.com/athletes/14937614)  
