@@ -7,7 +7,7 @@ I’m passionate about exploring the intersection of data science, economics, an
 ## Projects & Research
 - **Solana Cryptocurrency Platforms**  
   I’m developing innovative platforms on the Solana blockchain that use quantitative strategies for algorithmic trading of alternative assets.  
-  Explore the project on [GitHub](https://github.com/jadenfix/solanatools).  
+  Explore the project on [![GitHub](https://img.shields.io/badge/Repo-JadenFix/solanatools-181717?style=flat&logo=github)](https://github.com/jadenfix/solanatools).  
   *Seeking a front-end developer to collaborate on this project!*
 
 - **Predictive Stochastic Modeling for Financial Markets**  
