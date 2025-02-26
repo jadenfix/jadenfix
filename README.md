@@ -17,7 +17,7 @@
 
 - 🚴/🏃/🏊 Catch my latest training on [Strava](https://www.strava.com/athletes/14937614)  
 
-- 💬 Let's connect if you're interested or have tips about **quantitative strategy, blockchain technologies, and NLP/LLMs**  
+- 💬 Let's connect if you're interested or have tips about **quantitative strategy, blockchain technologies, or NLP/LLMs**  
 
 - 📫 How to reach me: **jpfix@calpoly.edu**  
 
