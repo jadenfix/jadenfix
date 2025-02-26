@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jaden Fix</h1>
 <h3 align="center">Data Scientist & Economic Researcher</h3>
 
-- 🔭 I’m currently working on [Solana cryptocurrency platforms](https://github.com/jadenfix/solanatools) that leverage quantitative strategy for algorithmic trading
+- 🔭 I’m currently working on [Solana cryptocurrency platforms](https://github.com/jadenfix/solanatools) that leverage quantitative strategy for algorithmic trading of alternative assets on the Solana blockchain
 
 - 🌱 I’m currently expanding my knowledge on **machine learning, stochastic modeling, econometrics, software engineering frameworks, and blockchain technology**  
 
