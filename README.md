@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently expanding my knowledge on **machine learning, econometrics, stochastic modeling, econometrics, and software engineering frameworks**  
 
-- 🤝 I’m looking for help from [a front-end developer](https://github.com/jadenfix/solanatools)  
+- 🤝 I’m looking for help from a front-end developer on [this project](https://github.com/jadenfix/solanatools)  
 
 - 👨‍💻 All of my projects are available [here](https://github.com/jadenfix?tab=repositories)  
 
