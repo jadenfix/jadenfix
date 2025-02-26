@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Solana cryptocurrency platforms](https://github.com/jadenfix/solanatools) that leverage quantitative strategy for algorithmic trading
 
-- 🌱 I’m currently expanding my knowledge on **machine learning, stochastic modeling, econometrics, and software engineering frameworks**  
+- 🌱 I’m currently expanding my knowledge on **machine learning, stochastic modeling, econometrics, software engineering frameworks, and blockchain technology**  
 
 - 🤝 I’m looking for help from a front-end developer on [this project](https://github.com/jadenfix/solanatools)  
 
