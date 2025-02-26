@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently expanding my knowledge on **machine learning, stochastic modeling, econometrics, software engineering frameworks, and blockchain technology**  
 
-- 🤝 I’m looking for help from a front-end developer on [this project](https://github.com/jadenfix/solanatools)  
+- 🤝 I’m looking for help from a front-end developer on [this project](https://github.com/jadenfix/solanatools) (Solana cryptocurrency platforms)
 
 - 📊 Check out my award-winning undergraduate thesis on **Predictive Stochastic Modeling for Financial Markets** [here](https://github.com/jadenfix/Predictive-Stochastic-Modeling-for-Financial-Markets-?tab=readme-ov-file)  
 
