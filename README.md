@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **jpfix@calpoly.edu**  
 
-- 📄 Know about my experiences [here](https://github.com/jadenfix/resume/blob/main/Resume%20-%20Jaden%20Fix.pdf)  
+- 📄 See my updated resume [here](https://github.com/jadenfix/resume/blob/main/Resume%20-%20Jaden%20Fix.pdf)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
