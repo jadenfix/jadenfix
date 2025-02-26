@@ -13,15 +13,15 @@
 
 - 🧠 Dive into my **Bayesian Neural Network for CIFAR-10 Image Classification** [here](https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification)  
 
-- 👨‍💻 All of my projects are available [here](https://github.com/jadenfix?tab=repositories)  
+- 👨‍💻 All of my projects are available in my repositories [here](https://github.com/jadenfix?tab=repositories)  
 
-- 🚴/🏃/🏊 Catch my latest training on Strava [here](https://www.strava.com/athletes/14937614)  
+- 🚴/🏃/🏊 Catch my latest training on [Strava](https://www.strava.com/athletes/14937614)  
 
-- 💬 Ask me about **quantitative strategy, blockchain technologies, and NLP/LLMs**  
+- 💬 Let's connect if you're interested or have tips about **quantitative strategy, blockchain technologies, and NLP/LLMs**  
 
 - 📫 How to reach me: **jpfix@calpoly.edu**  
 
-- 📄 See my updated resume [here](https://github.com/jadenfix/resume/blob/main/Resume%20-%20Jaden%20Fix.pdf)  
+- 📄 See my (hopefully) updated resume [here](https://github.com/jadenfix/resume/blob/main/Resume%20-%20Jaden%20Fix.pdf)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
