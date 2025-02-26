@@ -7,6 +7,10 @@
 
 - 🤝 I’m looking for help from a front-end developer on [this project](https://github.com/jadenfix/solanatools)  
 
+- 📊 Check out my award-winning undergraduate thesis on **Predictive Stochastic Modeling for Financial Markets** [here](https://github.com/jadenfix/Predictive-Stochastic-Modeling-for-Financial-Markets-?tab=readme-ov-file)  
+
+- 🤖 Explore my **Natural Language Processing project** [here](https://github.com/jadenfix/NLP)  
+
 - 👨‍💻 All of my projects are available [here](https://github.com/jadenfix?tab=repositories)  
 
 - 🚴/🏃/🏊 Catch my latest training on Strava [here](https://www.strava.com/athletes/14937614)  
