@@ -9,7 +9,7 @@
 
 - 📊 Check out my award-winning undergraduate thesis on **Predictive Stochastic Modeling for Financial Markets** [here](https://github.com/jadenfix/Predictive-Stochastic-Modeling-for-Financial-Markets-?tab=readme-ov-file)  
 
-- 🤖 Explore my **Natural Language Processing project** [here](https://github.com/jadenfix/NLP)  
+- 🤖 Explore my **Natural Language Processing projects** [here](https://github.com/jadenfix/NLP)  
 
 - 🧠 Dive into my **Bayesian Neural Network for CIFAR-10 Image Classification** [here](https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification)  
 
