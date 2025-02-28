@@ -36,5 +36,5 @@ I’m always eager to connect with others interested in quantitative strategy, b
 - **LinkedIn:** [Jaden Fix](https://linkedin.com/in/jadenfix/)
 
 ## Resume & Availability
-- **Resume:** View my [updated resume]([[https://github.com/jadenfix/resume/blob/main/Resume%20-%20Jaden%20Fix.pdf](https://github.com/jadenfix/resume/blob/main/-Jaden-Fix-Resume-.pdf)](https://github.com/jadenfix/resume/blob/main/-Jaden-Fix-Resume-.pdf)).  
+- **Resume:** View my [current resume](https://github.com/jadenfix/resume/blob/main/-Jaden-Fix-Resume-.pdf).  
 - **Job Opportunities:** I am seeking roles beginning June 2025 nationwide, with a preference for opportunities in SF/NYC.
