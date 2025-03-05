@@ -35,6 +35,5 @@ I’m always eager to connect with others interested in quantitative strategy, b
 - **Email:** [jpfix@calpoly.edu](mailto:jpfix@calpoly.edu)
 - **LinkedIn:** [Jaden Fix](https://linkedin.com/in/jadenfix/)
 
-## Resume & Availability
-- **Resume:** View my [current resume](https://github.com/jadenfix/resume/blob/main/-Jaden-Fix-Resume-.pdf).  
-- **Job Opportunities:** I am seeking roles beginning June 2025 nationwide, with a preference for opportunities in SF/NYC.
+## Availability
+- **Job Opportunities:** I am seeking roles beginning June 2025 nationwide, with a preference for opportunities in SF/NYC/Chicago.
