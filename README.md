@@ -5,6 +5,10 @@
 I’m passionate about exploring the intersection of data science, economics, and blockchain technology. I continually expand my expertise in machine learning, stochastic modeling, econometrics, and modern software engineering frameworks.
 
 ## Projects & Research
+- **Master's Thesis: Integrating Deep Learning, Stochastic Modeling, and Physics-Based Methods for an Automated Cryptocurrency Trading System**  
+  My current Master’s thesis explores the integration of deep learning architectures, stochastic processes, and physics-inspired models to design an adaptive crypto trading system.  
+  [![GitHub](https://img.shields.io/badge/Repo-JadenFix/masters--thesis-181717?style=flat&logo=github)](https://github.com/jadenfix/masters_thesis)
+
 - **Solana Cryptocurrency Platforms**  
   I’m developing innovative platforms on the Solana blockchain that use quantitative strategies for algorithmic trading of alternative assets.  
   [![GitHub](https://img.shields.io/badge/Repo-JadenFix/solanatools-181717?style=flat&logo=github)](https://github.com/jadenfix/solanatools)  
