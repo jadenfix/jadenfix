@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaden Fix</h1>
-<h3 align="center">Data Scientist & Economic Researcher</h3>
+<h3 align="center">AI, ML, crypto & sales</h3>
 
 ## About Me
 I’m passionate about exploring the intersection of data science, economics, and blockchain technology. I continually expand my expertise in machine learning, stochastic modeling, econometrics, and modern software engineering frameworks.
