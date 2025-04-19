@@ -8,7 +8,8 @@ I’m passionate about exploring the intersection of data science, economics, an
 
 ## Projects & Research
 - **Master's Thesis: Integrating Deep Learning, Stochastic Modeling, and Physics-Based Methods for an Automated Cryptocurrency Trading System**  
-  My current Master’s thesis explores the integration of deep learning architectures, stochastic processes, and physics-inspired models to design an adaptive crypto trading system.  
+  My current Master’s thesis explores the integration of deep learning architectures, stochastic processes, and physics-inspired models to design an adaptive crypto trading system.
+  (NOTE: Currently Private, will publish very soon)  
   [![GitHub](https://img.shields.io/badge/Repo-JadenFix/masters--thesis-181717?style=flat&logo=github)](https://github.com/jadenfix/masters_thesis)
 
 - **Solana Cryptocurrency Platforms**  
