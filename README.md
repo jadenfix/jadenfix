@@ -30,7 +30,7 @@ I’m passionate about exploring the intersection of data science, economics, an
   [![GitHub](https://img.shields.io/badge/Repo-JadenFix/Bayesian--Neural--Network--for--CIFAR10-181717?style=flat&logo=github)](https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification)  
 
 - **Other Repositories**  
-  See all of my work on my [![GitHub](https://img.shields.io/badge/GitHub-JadenFix?style=flat&logo=github)](https://github.com/jadenfix?tab=repositories).  
+  See all of my work (including some coursework) on my [![GitHub](https://img.shields.io/badge/GitHub-JadenFix?style=flat&logo=github)](https://github.com/jadenfix?tab=repositories).  
 
 ## Additional Interests
 - **Fitness & Training**  
@@ -44,3 +44,4 @@ I’m always eager to connect with others interested in quantitative strategy, b
 
 ## Availability
 - **Job Opportunities:** I am seeking roles beginning June 2025 nationwide, with a preference for opportunities in SF/NYC/Chicago.
+
