@@ -33,7 +33,7 @@ I’m passionate about exploring the intersection of data science, economics, an
   See all of my work (including some coursework) on my [![GitHub](https://img.shields.io/badge/GitHub-JadenFix?style=flat&logo=github)](https://github.com/jadenfix?tab=repositories).  
 
 ## Additional Interests
-- **Fitness & Training**  
+- **Fitness & Training** 
   Follow my latest training sessions on [Strava](https://www.strava.com/athletes/14937614).
 
 ## Let's Connect
