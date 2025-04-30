@@ -30,10 +30,9 @@ I’m passionate about exploring the intersection of data science, economics, an
   [![GitHub](https://img.shields.io/badge/Repo-JadenFix/Bayesian--Neural--Network--for--CIFAR10-181717?style=flat&logo=github)](https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification)
 
 - **C++ Fundamentals**  
--   See my work focusing on low-latency code with C++ with applications to orders and financials:
-+ **C++ Fundamentals**  
-+   See my [C++ Fundamentals Order Book & Matching Engine Simulator](https://github.com/jadenfix/cpp_fundamentals) focusing on low-latency C++11 code for market microstructure simulations.
-
+  A high-performance C++11 Order Book & Matching Engine simulator demonstrating low-latency market microstructure code.  
+  [![GitHub](https://img.shields.io/badge/Repo-JadenFix/cpp_fundamentals-181717?style=flat&logo=github)](https://github.com/jadenfix/cpp_fundamentals)
+  
 - **Other Repositories**  
   See all of my work (including some coursework) on my [![GitHub](https://img.shields.io/badge/GitHub-JadenFix?style=flat&logo=github)](https://github.com/jadenfix?tab=repositories).  
 
