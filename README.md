@@ -7,7 +7,7 @@
 </p>
 
 ## 🔍 About Me
-I’m a software engineer and data scientist passionate about building scalable, high-performance systems and delivering impactful data-driven solutions. Skilled in C++, TypeScript, React, and Python, I bridge cutting-edge engineering with real-world business needs.
+I’m a software engineer and data scientist passionate about building scalable, high-performance systems and delivering impactful data-driven solutions. My favorite Languages/Frameworks are C++, TypeScript, React, and Python, I bridge cutting-edge engineering with real-world business needs.
 
 ## 🛠️ Projects & Research
 
