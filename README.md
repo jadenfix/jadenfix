@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Jaden Fix</h1>
-<h3 align="center">💻 Software Engineer | 📊 Data Scientist | 🔧 Solutions Engineer</h3>
+<h3 align="center">💻 Passionate About Software, Data and Solutions</h3>
 <p align="center">
   <a href="https://jadenfix.github.io">
     <img src="https://img.shields.io/badge/Personal_Site-jadenfix.github.io-007ACC?style=for-the-badge&logo=react&logoColor=white&logoWidth=40" alt="Personal Site" />
