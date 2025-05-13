@@ -1,5 +1,10 @@
 <h1 align="center">🚀 Hi, I'm Jaden Fix</h1>
 <h3 align="center">💻 Software Engineer | 📊 Data Scientist | 🔧 Solutions Engineer</h3>
+<p align="center">
+  <a href="https://jadenfix.github.io">
+    <img src="https://img.shields.io/badge/Personal_Site-jadenfix.github.io-007ACC?style=for-the-badge&logo=react&logoColor=white&logoWidth=40" alt="Personal Site" />
+  </a>
+</p>
 
 ## 🔍 About Me
 I’m a software engineer and data scientist passionate about building scalable, high-performance systems and delivering impactful data-driven solutions. Skilled in C++, TypeScript, React, and Python, I bridge cutting-edge engineering with real-world business needs.
@@ -13,9 +18,6 @@ I’m a software engineer and data scientist passionate about building scalable,
 - **Data:** Powered by multi-year, 1️⃣-minute historical market data.
 
 <p align="center">
-  <a href="https://jadenfix.github.io">
-    <img src="https://img.shields.io/badge/Personal_Site-jadenfix.github.io-007ACC?style=for-the-badge&logo=react&logoColor=white&logoWidth=40" alt="Personal Site" />
-  </a>
   <a href="https://github.com/jadenfix/financial_cpp">
     <img src="https://img.shields.io/badge/C%2B%2B_Backend-financial__cpp-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=40" alt="C++ Backend Engine" />
   </a>
@@ -67,7 +69,7 @@ Image classification using Bayesian neural nets.
 
 <p align="center">
   <a href="https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification">
-    <img src="https://img.shields.io/badge/Bayesian_NN-CIFAR-10-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=40" alt="Bayesian Neural Network" />
+    <img src="https://img.shields.io/badge/Bayesian_NN-CIFAR--10-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=40" alt="Bayesian Neural Network" />
   </a>
 </p>
 
@@ -99,6 +101,7 @@ Explore all my work here:
 </p>
 
 ## 📫 Let’s Connect
+
 <p align="center">
   <a href="mailto:jpfix@calpoly.edu">
     <img src="https://img.shields.io/badge/Email-jpfix@calpoly.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" alt="Email" />
