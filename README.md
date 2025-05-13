@@ -51,7 +51,7 @@ Award-winning undergraduate thesis on predictive models for financial markets.
 
 <p align="center">
   <a href="https://github.com/jadenfix/Predictive-Stochastic-Modeling-for-Financial-Markets">
-    <img src="https://img.shields.io/badge/Predictive_Stochastic-Financial_Markets-4B8BBE?style=for-the-badge&logo=python&logoColor=white&logoWidth=40" alt="Predictive Modeling" />
+    <img src="https://img.shields.io/badge/Predictive_Stochastic-Financial_Markets-4B8BBE?style=for-the-badge&logo=R&logoColor=blue&logoWidth=40" alt="Predictive Modeling" />
   </a>
 </p>
 
