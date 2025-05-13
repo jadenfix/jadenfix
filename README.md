@@ -42,7 +42,7 @@ Developing platforms on the Solana blockchain using quantitative strategies for 
 
 <p align="center">
   <a href="https://github.com/jadenfix/solanatools">
-    <img src="https://img.shields.io/badge/Solana_Tools-Quantum_Strategies-00FFA3?style=for-the-badge&logo=solana&logoColor=white&logoWidth=40" alt="Solana Tools" />
+    <img src="https://img.shields.io/badge/Solana_Tools-Quantitative_Strategies-00FFA3?style=for-the-badge&logo=solana&logoColor=white&logoWidth=40" alt="Solana Tools" />
   </a>
 </p>
 
