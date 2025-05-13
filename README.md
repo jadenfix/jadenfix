@@ -1,51 +1,59 @@
-<h1 align="center">Hi, I'm Jaden Fix</h1>
-<h3 align="center">Data, AI, and solutions specialist</h3>
-<h5 align="center">(https://jadenfix.github.io)</h3>
+<h1 align="center">🚀 Hi, I'm Jaden Fix</h1>
+<h3 align="center">💻 Software Engineer | 📊 Data Scientist | 🔧 Solutions Engineer</h3>
+<h5 align="center">https://jadenfix.github.io</h5>
 
+## 🔍 About Me
+I’m a software engineer and data scientist passionate about building scalable, high-performance systems and delivering impactful data-driven solutions. Skilled in C++, TypeScript, React, and Python, I bridge cutting-edge engineering with real-world business needs.
 
-## About Me
-I’m passionate about exploring the intersection of data science, economics, and blockchain technology. I continually expand my expertise in machine learning, stochastic modeling, econometrics, and modern software engineering frameworks.
+## 🛠️ Projects & Research
 
-## Projects & Research
-- **Master's Thesis: Integrating Deep Learning, Stochastic Modeling, and Physics-Based Methods for an Automated Cryptocurrency Trading System**  
-  My current Master’s thesis explores the integration of deep learning architectures, stochastic processes, and physics-inspired models to design an adaptive crypto trading system.
-  (NOTE: Currently Private, will publish very soon)  
-  [![GitHub](https://img.shields.io/badge/Repo-JadenFix/masters--thesis-181717?style=flat&logo=github)](https://github.com/jadenfix/masters_thesis)
+### 🏷️ Master’s Thesis: C++-Powered High-Performance Trading Website
+- **Overview:** Full-stack trading platform featuring a **C++** simulation engine, **TypeScript/Node.js** backend, and **React** frontend.  
+- **Performance:** Achieves **1000× speedup** in strategy execution versus Python.  
+- **Features:** Secure REST API, interactive dashboards showing P&L, drawdown, win rate, and more.  
+- **Data:** Powered by multi-year, 1️⃣-minute historical market data.
 
-- **Solana Cryptocurrency Platforms**  
-  I’m developing innovative platforms on the Solana blockchain that use quantitative strategies for algorithmic trading of alternative assets.  
-  [![GitHub](https://img.shields.io/badge/Repo-JadenFix/solanatools-181717?style=flat&logo=github)](https://github.com/jadenfix/solanatools)  
-  *Seeking a front-end developer to collaborate on this project!*
+🔗 **Link to Back-End Engine:** [financial_cpp](https://github.com/jadenfix/financial_cpp)  
+🔗 **Link to Full Website:** [trading_website](https://github.com/jadenfix/trading_website)
 
-- **Predictive Stochastic Modeling for Financial Markets**  
-  Check out my award-winning undergraduate thesis that delves into predictive models for financial markets.  
-  [![GitHub](https://img.shields.io/badge/Repo-JadenFix/Predictive--Stochastic--Modeling--for--Financial--Markets-181717?style=flat&logo=github)](https://github.com/jadenfix/Predictive-Stochastic-Modeling-for-Financial-Markets-?tab=readme-ov-file)  
+### 🤖 Supervised Fine-Tuning: Local LLMs for Coding Agents
+- **Purpose:** Toolkit for supervised fine-tuning of local large language models to create specialized coding assistants.  
+- **Components:** Data preprocessing pipelines, training scripts, and local deployment guidelines.  
+- **Use Case:** Run coding agents entirely on local hardware for privacy and performance.
 
-- **Natural Language Processing Projects**  
-  Discover my work in NLP, where I experiment with innovative approaches and models.  
-  [![GitHub](https://img.shields.io/badge/Repo-JadenFix/NLP-181717?style=flat&logo=github)](https://github.com/jadenfix/NLP)  
+🔗 **Link to Repo:** [supervised_fine_tuning](https://github.com/jadenfix/supervised_fine_tuning)
 
-- **Bayesian Neural Network for CIFAR-10**  
-  Explore my project on image classification using Bayesian neural networks.  
-  [![GitHub](https://img.shields.io/badge/Repo-JadenFix/Bayesian--Neural--Network--for--CIFAR10-181717?style=flat&logo=github)](https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification)
+### 🔗 Solana Cryptocurrency Platforms
+Developing platforms on the Solana blockchain using quantitative strategies for algorithmic trading of alternative assets.  
+🔗 [solanatools](https://github.com/jadenfix/solanatools) *(seeking front-end developer!)*
 
-- **C++ Fundamentals**  
-  A high-performance C++11 Order Book & Matching Engine simulator demonstrating low-latency market microstructure code.  
-  [![GitHub](https://img.shields.io/badge/Repo-JadenFix/cpp_fundamentals-181717?style=flat&logo=github)](https://github.com/jadenfix/cpp_fundamentals)
-  
-- **Other Repositories**  
-  See all of my work (including some coursework) on my [![GitHub](https://img.shields.io/badge/GitHub-JadenFix?style=flat&logo=github)](https://github.com/jadenfix?tab=repositories).  
+### 📈 Predictive Stochastic Modeling for Financial Markets
+Award-winning undergraduate thesis on predictive models for financial markets.  
+🔗 [Predictive-Stochastic-Modeling-for-Financial-Markets](https://github.com/jadenfix/Predictive-Stochastic-Modeling-for-Financial-Markets)
 
-## Additional Interests
-- **Fitness & Training** 
-  Follow my latest training sessions on [Strava](https://www.strava.com/athletes/14937614).
+### 🗣️ Natural Language Processing Projects
+Experiments in NLP with custom models and pipelines.  
+🔗 [NLP](https://github.com/jadenfix/NLP)
 
-## Let's Connect
-I’m always eager to connect with others interested in quantitative strategy, blockchain technologies, or NLP/LLMs. Feel free to reach out if you have tips, questions, or collaboration ideas!
+### 🔬 Bayesian Neural Network for CIFAR-10
+Image classification using Bayesian neural nets.  
+🔗 [Bayesian-Neural-Network-for-CIFAR-10-Image-Classification](https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification)
 
-- **Email:** [jpfix@calpoly.edu](mailto:jpfix@calpoly.edu)
-- **LinkedIn:** [Jaden Fix](https://linkedin.com/in/jadenfix/)
+### 📚 C++ Fundamentals
+High-performance C++11 Order Book & Matching Engine simulator demonstrating low-latency trading logic.  
+🔗 [cpp_fundamentals](https://github.com/jadenfix/cpp_fundamentals)
 
-## Availability
-- **Job Opportunities:** I am seeking roles beginning June 2025 nationwide, with a preference for opportunities in SF/NYC/Chicago.
+### 🔗 Other Repositories
+Explore all my work here: [GitHub Profile](https://github.com/jadenfix?tab=repositories)
 
+## 🎯 Additional Interests
+- **Fitness & Training:** Follow my workouts on [Strava](https://www.strava.com/athletes/14937614)
+
+## 📫 Let’s Connect
+I’m open to collaboration and roles in software engineering, data science, and solutions engineering.
+
+- ✉️ [Email: jpfix@calpoly.edu](mailto:jpfix@calpoly.edu)  
+- 💼 [LinkedIn: Jaden Fix](https://linkedin.com/in/jadenfix/)
+
+## ⚡ Availability
+Seeking opportunities starting June 2025 (SF/NYC/Chicago preferred, open nationwide).
