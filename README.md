@@ -11,17 +11,27 @@ I’m a software engineer and data scientist passionate about building scalable,
 - **Overview:** Full-stack trading platform featuring a **C++** simulation engine, **TypeScript/Node.js** backend, and **React** frontend.  
 - **Performance:** Achieves **1000× speedup** in strategy execution versus Python.  
 - **Features:** Secure REST API, interactive dashboards showing P&L, drawdown, win rate, and more.  
-- **Data:** Powered by multi-year, 1️⃣-minute historical market data.
-
-🔗 **Link to Back-End Engine:** [financial_cpp](https://github.com/jadenfix/financial_cpp)  
-🔗 **Link to Full Website:** [trading_website](https://github.com/jadenfix/trading_website)
+- **Data:** Powered by multi-year, 1️⃣-minute historical market data.  
+  <br/>
+  <p align="center">
+    <a href="https://github.com/jadenfix/financial_cpp">
+      <img src="https://img.shields.io/badge/Back-End_Engine-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Back-End Engine" />
+    </a>
+    <a href="https://github.com/jadenfix/trading_website">
+      <img src="https://img.shields.io/badge/Full_Website-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Full Website" />
+    </a>
+  </p>
 
 ### 🤖 Supervised Fine-Tuning: Local LLMs for Coding Agents
 - **Purpose:** Toolkit for supervised fine-tuning of local large language models to create specialized coding assistants.  
 - **Components:** Data preprocessing pipelines, training scripts, and local deployment guidelines.  
-- **Use Case:** Run coding agents entirely on local hardware for privacy and performance.
-
-🔗 **Link to Repo:** [supervised_fine_tuning](https://github.com/jadenfix/supervised_fine_tuning)
+- **Use Case:** Run coding agents entirely on local hardware for privacy and performance.  
+  <br/>
+  <p align="center">
+    <a href="https://github.com/jadenfix/supervised_fine_tuning">
+      <img src="https://img.shields.io/badge/SFT-LLM_Agents-FFA500?style=for-the-badge&logo=openai&logoColor=white" alt="Supervised Fine-Tuning" />
+    </a>
+  </p>
 
 ### 🔗 Solana Cryptocurrency Platforms
 Developing platforms on the Solana blockchain using quantitative strategies for algorithmic trading of alternative assets.  
