@@ -11,6 +11,29 @@ I’m a software engineer and data scientist passionate about building scalable,
 
 ## 🛠️ Projects & Research
 
+### 💳 SmartPayDoc: AI-Powered Stripe Assistant
+- **Overview:** AI-powered developer assistant for Stripe integrations—ask questions, generate boilerplate, debug errors, and inspect webhooks in natural language.  
+- **Live Demo:** [smartpaydoc.onrender.com](https://smartpaydoc.onrender.com/)  
+- **Repo:** [github.com/jadenfix/smartpaydoc](https://github.com/jadenfix/smartpaydoc)  
+- **Key Features:**
+  - **Ask Questions** about Stripe APIs with explanatory code examples  
+  - **Generate Code** for common payment, subscription, and customer patterns  
+  - **Debug Errors** with AI-driven analysis and recommended fixes  
+  - **Webhook Analysis** to parse payloads and scaffold handlers  
+  - **Multi-language** support (Python, JavaScript, etc.)  
+- **Tech Stack:** FastAPI · Typer · Rich · Anthropic Claude · FAISS · Stripe SDK  
+
+<p align="center">
+  <a href="https://smartpaydoc.onrender.com">
+    <img src="https://img.shields.io/badge/Live-Demo-smartpaydoc.onrender.com-22C55E?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/jadenfix/smartpaydoc">
+    <img src="https://img.shields.io/badge/Repo-github.com/jadenfix/smartpaydoc-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartPayDoc Repo" />
+  </a>
+</p>
+
+---
+
 ### 🏷️ Master’s Thesis: C++-Powered High-Performance Trading Website
 - **Overview:** Full-stack trading platform featuring a **C++** simulation engine, **TypeScript/Node.js** backend, and **React** frontend.  
 - **Performance:** Achieves **1000× speedup** in strategy execution versus Python.  
