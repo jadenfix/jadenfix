@@ -24,46 +24,35 @@ I’m a software engineer and data scientist passionate about building scalable,
 - **Tech Stack:** FastAPI · Typer · Rich · Anthropic Claude · FAISS · Stripe SDK  
 
 <p align="center">
-  <a
-    href="https://smartpaydoc.onrender.com"
-    target="_blank"
-    style="
-      display: inline-block;
-      padding: 0.75em 1.5em;
-      border-radius: 8px;
-      background: linear-gradient(90deg, #4ade80, #22c55e);
-      color: #fff;
-      font-weight: 600;
-      text-decoration: none;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-      transition: transform 0.15s ease, box-shadow 0.15s ease;
-    "
-    onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)';"
-    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
-  >
-    🚀 Live Demo
+  <a href="https://smartpaydoc.onrender.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Live%20Demo-smartpaydoc.onrender.com-22C55E?style=for-the-badge&logo=web&logoColor=white&logoWidth=40"
+      alt="Live Demo"
+    />
   </a>
-  <a
-    href="https://github.com/jadenfix/smartpaydoc"
-    target="_blank"
-    style="
-      display: inline-block;
-      margin-left: 1em;
-      padding: 0.75em 1.5em;
-      border-radius: 8px;
-      background: #181717;
-      color: #fff;
-      font-weight: 600;
-      text-decoration: none;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-      transition: transform 0.15s ease, box-shadow 0.15s ease;
-    "
-    onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)';"
-    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
-  >
-    📂 View Repo
+  <a href="https://github.com/jadenfix/smartpaydoc" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Repo-github.com%2Fjadenfix%2Fsmartpaydoc-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40"
+      alt="SmartPayDoc Repo"
+    />
   </a>
 </p>
+
+### 🏷️ Master’s Thesis: C++-Powered High-Performance Trading Website
+- **Overview:** Full-stack trading platform featuring a **C++** simulation engine, **TypeScript/Node.js** backend, and **React** frontend.  
+- **Performance:** Achieves **1000× speedup** in strategy execution versus Python.  
+- **Features:** Secure REST API, interactive dashboards showing P&L, drawdown, win rate, and more.  
+- **Data:** Powered by multi-year, 1️⃣-minute historical market data.
+
+<p align="center">
+  <a href="https://github.com/jadenfix/financial_cpp">
+    <img src="https://img.shields.io/badge/C%2B%2B_Backend-financial__cpp-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=40" alt="C++ Backend Engine" />
+  </a>
+  <a href="https://github.com/jadenfix/trading_website">
+    <img src="https://img.shields.io/badge/Full_Website-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&logoWidth=40" alt="Full Website" />
+  </a>
+</p>
+
 ### 🤖 Supervised Fine-Tuning: Local LLMs for Coding Agents
 - **Purpose:** Toolkit for supervised fine-tuning of local large language models to create specialized coding assistants.  
 - **Components:** Data preprocessing pipelines, training scripts, and local deployment guidelines.  
