@@ -1,154 +1,179 @@
-<!-- ─────────────────────────  HERO  ───────────────────────── -->
+<!-- ─────────────────────────────  HERO  ───────────────────────────── -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀  Jaden Fix-0F0F0F?style=for-the-badge&logo=github&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Engineering × Data × ML-1B1B1B?style=for-the-badge&logo=openai&logoColor=white" />
+<h1 style="font-size:3.2rem;font-weight:600;margin-bottom:.4rem;">
+  JADEN&nbsp;FIX
+</h1>
 
-<p>
-  <a href="https://jadenfix.github.io">
-    <img src="https://img.shields.io/badge/🌐  Portfolio-11A3EE?style=for-the-badge&logo=react&logoColor=white">
-  </a>
+<p style="font-size:1.25rem;margin-top:0;">
+  Building high‑performance software & data products
 </p>
+
+<a href="https://jadenfix.github.io">
+  <img src="https://img.shields.io/badge/PORTFOLIO-11A3EE?style=for-the-badge&labelColor=0F0F0F&logo=react&logoColor=white">
+</a>
 
 </div>
 
----
+<br/>
 
-## 🔧  Core Stack
+<!-- ───────────────────────  CORE STACK  ─────────────────────── -->
+<h2 align="center">core&nbsp;stack</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-0F4C81?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-212121?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0F0F0F?style=flat&logo=c%2B%2B&logoColor=00599C" height="22">
+  <img src="https://img.shields.io/badge/TypeScript-0F0F0F?style=flat&logo=typescript&logoColor=3178C6" height="22">
+  <img src="https://img.shields.io/badge/React-0F0F0F?style=flat&logo=react&logoColor=61DAFB"   height="22">
+  <img src="https://img.shields.io/badge/Python-0F0F0F?style=flat&logo=python&logoColor=3670A0"   height="22">
+  <img src="https://img.shields.io/badge/Stripe-0F0F0F?style=flat&logo=stripe&logoColor=008CDD"   height="22">
+  <img src="https://img.shields.io/badge/OpenAI-0F0F0F?style=flat&logo=openai&logoColor=white"    height="22">
 </p>
 
----
+<br/>
 
-## 🛠️  Highlighted Projects
-<details open>
-<summary><strong>1&nbsp;·&nbsp;SmartPayDoc — AI‑Powered Stripe Assistant</strong></summary>
+<!-- ─────────────────────  PROJECTS SECTION  ───────────────────── -->
+<h2 align="center">projects</h2>
 
-| &nbsp; | &nbsp; |
-| :- | :- |
-| **Live Demo** | <a href="https://smartpaydoc.onrender.com">smartpaydoc.onrender.com</a> |
-| **Repo** | <a href="https://github.com/jadenfix/smartpaydoc">github.com/jadenfix/smartpaydoc</a> |
-| **Features** | Conversational API Q&A · Boilerplate generation · AI error debugging · Webhook inspector |
-| **Stack** | FastAPI · Typer · Rich · Anthropic Claude · FAISS · Stripe SDK |
-
-<p align="center">
+<!-- Project Card 1 -->
+<div align="center">
+  <strong>SmartPayDoc — AI‑Powered&nbsp;Stripe&nbsp;Assistant</strong>  
+  <br/>
+  <em>Conversational docs · Boilerplate generator · Error debugger · Webhook inspector</em>  
+  <br/><br/>
   <a href="https://smartpaydoc.onrender.com">
-    <img src="https://img.shields.io/badge/Live Demo-22C55E?style=for-the-badge&logo=stripe&logoColor=white">
+    <img src="https://img.shields.io/badge/Live-22C55E?style=for-the-badge&labelColor=0F0F0F&logo=stripe&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://github.com/jadenfix/smartpaydoc">
-    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=white">
   </a>
-</p>
-</details>
+</div>
 
-<details>
-<summary><strong>2&nbsp;·&nbsp;Master’s Thesis — C++‑Powered Trading Platform</strong></summary>
+<br/>
 
-- **¹⁰⁰⁰× speed‑up** vs Python engine  
-- Secure REST API (Node/Express) + React analytics dashboard  
-- Multi‑year 1‑minute OHLC data feeds  
-
-<p align="center">
+<!-- Project Card 2 -->
+<div align="center">
+  <strong>Master’s Thesis — C++‑Powered Trading&nbsp;Platform</strong>  
+  <br/>
+  <em>1000× faster C++ engine · React dashboards · 1‑min market data</em>  
+  <br/><br/>
   <a href="https://github.com/jadenfix/financial_cpp">
-    <img src="https://img.shields.io/badge/C++ Engine-financial__cpp-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/C++%20Engine-00599C?style=for-the-badge&labelColor=0F0F0F&logo=c%2B%2B&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://github.com/jadenfix/trading_website">
-    <img src="https://img.shields.io/badge/React UI-trading_website-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/React%20UI-61DAFB?style=for-the-badge&labelColor=0F0F0F&logo=react&logoColor=white">
   </a>
-</p>
-</details>
+</div>
 
-<details>
-<summary><strong>3&nbsp;·&nbsp;Supervised Fine‑Tuning Toolkit</strong></summary>
+<br/>
 
-Fine‑tune local LLMs into privacy‑first coding agents (data pipelines → training scripts → on‑prem inference).
-
-<p align="center">
+<!-- Project Card 3 -->
+<div align="center">
+  <strong>Supervised&nbsp;Fine‑Tuning Toolkit</strong>  
+  <br/>
+  <em>Local LLMs · Data pipelines → on‑prem coding agents</em>  
+  <br/><br/>
   <a href="https://github.com/jadenfix/supervised_fine_tuning">
-    <img src="https://img.shields.io/badge/SFT%20Toolkit-FFA500?style=for-the-badge&logo=openai&logoColor=white">
+    <img src="https://img.shields.io/badge/SFT%20Toolkit-FFA500?style=for-the-badge&labelColor=0F0F0F&logo=openai&logoColor=white">
   </a>
-</p>
-</details>
+</div>
 
-<details>
-<summary><strong>4&nbsp;·&nbsp;Solana Quant Trading Tools</strong></summary>
-On‑chain & off‑chain modules for algorithmic trading strategies.
-<p align="center">
+<br/>
+
+<!-- Project Card 4 -->
+<div align="center">
+  <strong>Solana Quant Trading Tools</strong>  
+  <br/>
+  <em>On‑chain & off‑chain modules for algorithmic strategies</em>  
+  <br/><br/>
   <a href="https://github.com/jadenfix/solanatools">
-    <img src="https://img.shields.io/badge/Solana_Tools-00FFA3?style=for-the-badge&logo=solana&logoColor=white">
+    <img src="https://img.shields.io/badge/Solana_Tools-00FFA3?style=for-the-badge&labelColor=0F0F0F&logo=solana&logoColor=white">
   </a>
-</p>
-</details>
+</div>
 
-<details>
-<summary><strong>5&nbsp;·&nbsp;Predictive Stochastic Modeling (Award‑Winning)</strong></summary>
-Markov Switching & β‑regressions forecasting bear‑market probabilities.
-<p align="center">
+<br/>
+
+<!-- Project Card 5 -->
+<div align="center">
+  <strong>Predictive Stochastic Modeling</strong>  
+  <br/>
+  <em>Award‑winning thesis: Markov Switching & β‑regressions</em>  
+  <br/><br/>
   <a href="https://github.com/jadenfix/Predictive-Stochastic-Modeling-for-Financial-Markets">
-    <img src="https://img.shields.io/badge/Financial_Markets-4B8BBE?style=for-the-badge&logo=r&logoColor=white">
+    <img src="https://img.shields.io/badge/Finance-4B8BBE?style=for-the-badge&labelColor=0F0F0F&logo=r&logoColor=white">
   </a>
-</p>
-</details>
+</div>
 
-<details>
-<summary><strong>6&nbsp;·&nbsp;NLP & Bayesian Deep Learning</strong></summary>
+<br/>
 
-<p align="center">
+<!-- Project Card 6 -->
+<div align="center">
+  <strong>NLP & Bayesian Deep Learning</strong>  
+  <br/><br/>
   <a href="https://github.com/jadenfix/NLP">
-    <img src="https://img.shields.io/badge/NLP-HuggingFace-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white">
+    <img src="https://img.shields.io/badge/NLP-FF6C37?style=for-the-badge&labelColor=0F0F0F&logo=huggingface&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification">
-    <img src="https://img.shields.io/badge/Bayesian_NN-CIFAR--10-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Bayesian_NN-FF6C37?style=for-the-badge&labelColor=0F0F0F&logo=tensorflow&logoColor=white">
   </a>
-</p>
-</details>
+</div>
 
-<details>
-<summary><strong>7&nbsp;·&nbsp;C++ Order‑Book Simulator</strong></summary>
-Ultra‑low‑latency matching‑engine showcasing systems‑level optimizations.
-<p align="center">
+<br/>
+
+<!-- Project Card 7 -->
+<div align="center">
+  <strong>C++ Order‑Book Simulator</strong>  
+  <br/>
+  <em>Ultra‑low‑latency matching engine</em>  
+  <br/><br/>
   <a href="https://github.com/jadenfix/cpp_fundamentals">
-    <img src="https://img.shields.io/badge/C%2B%2B_Fundamentals-OrderBook-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/OrderBook-00599C?style=for-the-badge&labelColor=0F0F0F&logo=c%2B%2B&logoColor=white">
   </a>
-</p>
-</details>
+</div>
 
----
+<br/>
 
-## 📚  Explore Everything
+<!-- ─────────────────────  ALL REPOS  ───────────────────── -->
+<h2 align="center">explore&nbsp;everything</h2>
+
 <p align="center">
   <a href="https://github.com/jadenfix?tab=repositories">
-    <img src="https://img.shields.io/badge/All Repos-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=0F0F0F&logo=github&logoColor=white">
   </a>
 </p>
 
----
+<br/>
 
-## 🌎  Beyond Code
-Endurance athlete & strength‑training enthusiast   |   <a href="https://www.strava.com/athletes/14937614">Strava</a>
+<!-- ─────────────────────  PERSONAL  ───────────────────── -->
+<h2 align="center">beyond&nbsp;code</h2>
+<p align="center">
+  Endurance athlete & strength‑training enthusiast  
+  &nbsp;•&nbsp;
+  <a href="https://www.strava.com/athletes/14937614">Strava</a>
+</p>
 
----
+<br/>
 
-## 🤝  Connect
+<!-- ─────────────────────  CONTACT  ───────────────────── -->
+<h2 align="center">connect</h2>
+
 <p align="center">
   <a href="mailto:jpfix@calpoly.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&labelColor=0F0F0F&logo=gmail&logoColor=white">
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/jadenfix">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0F0F0F&logo=linkedin&logoColor=white">
   </a>
 </p>
 
----
+<br/>
 
-## ⚡  Availability
-**Open to full‑time roles from June 2025 — SF · NYC · CHI (remote‑friendly).**
+<!-- ─────────────────────  AVAILABILITY  ───────────────────── -->
+<h2 align="center">availability</h2>
+
+<p align="center">
+  Open to full‑time roles from&nbsp;June&nbsp;2025 — SF • NYC • CHI (remote‑friendly)
+</p>
