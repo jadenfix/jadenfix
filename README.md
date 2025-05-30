@@ -1,142 +1,148 @@
-<h1 align="center">🚀 Hi, I'm Jaden Fix</h1>
-<h3 align="center">💻 Passionate about Software and Data</h3>
 <p align="center">
-  <a href="https://jadenfix.github.io">
-    <img src="https://img.shields.io/badge/Personal_Site-jadenfix.github.io-007ACC?style=for-the-badge&logo=react&logoColor=white&logoWidth=40" alt="Personal Site" />
+  <img src="https://img.shields.io/badge/🚀%20Hi%2C%20I'm%20Jaden%20Fix-blue?style=for-the-badge&logo=github&logoColor=white" alt="Hi, I'm Jaden Fix" />
+  <img src="https://img.shields.io/badge/💻%20Software%20%26%20Data-purple?style=for-the-badge&logo=python&logoColor=white" alt="Software & Data" />
+</p>
+
+<p align="center">
+  <a href="https://jadenfix.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Personal%20Site-jadenfix.github.io-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Personal Site">
   </a>
 </p>
 
-## 🔍 About Me
-I’m a software engineer and data scientist passionate about building scalable, high-performance systems and delivering impactful data-driven solutions. My favorite Languages/Frameworks are C++, TypeScript, React, and Python, I bridge cutting-edge engineering with real-world business needs.
+---
+
+## 🔍 About Me  
+I’m a Software Engineer & Data Scientist dedicated to architecting scalable, high-performance systems and delivering data-driven insights. My core strengths include C++, TypeScript/React, and Python—bridging advanced engineering with practical business impact.
+
+---
 
 ## 🛠️ Projects & Research
 
-### 💳 SmartPayDoc: AI-Powered Stripe Assistant
-- **Overview:** AI-powered developer assistant for Stripe integrations—ask questions, generate boilerplate, debug errors, and inspect webhooks in natural language.  
-- **Live Demo:** [smartpaydoc.onrender.com](https://smartpaydoc.onrender.com/)  
-- **Repo:** [github.com/jadenfix/smartpaydoc](https://github.com/jadenfix/smartpaydoc)  
-- **Key Features:**
-  - **Ask Questions** about Stripe APIs with explanatory code examples  
-  - **Generate Code** for common payment, subscription, and customer patterns  
-  - **Debug Errors** with AI-driven analysis and recommended fixes  
-  - **Webhook Analysis** to parse payloads and scaffold handlers  
-  - **Multi-language** support (Python, JavaScript, etc.)  
+### 1. SmartPayDoc – AI-Powered Stripe Assistant  
+**Live Demo:** [smartpaydoc.onrender.com](https://smartpaydoc.onrender.com)  
+**Repo:** [github.com/jadenfix/smartpaydoc](https://github.com/jadenfix/smartpaydoc)  
+- **Conversational API Q&A:** Natural-language queries with code samples  
+- **Boilerplate Generator:** Auto-scaffold common payment flows  
+- **Error Debugger:** AI-driven analysis & fixes  
+- **Webhook Inspector:** Parse payloads and scaffold handlers  
+- **Polyglot Support:** Python, JavaScript, etc.  
 - **Tech Stack:** FastAPI · Typer · Rich · Anthropic Claude · FAISS · Stripe SDK  
 
 <p align="center">
-  <a href="https://smartpaydoc.onrender.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Live%20Demo-smartpaydoc.onrender.com-22C55E?style=for-the-badge&logo=web&logoColor=white&logoWidth=40"
-      alt="Live Demo"
-    />
+  <a href="https://smartpaydoc.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-smartpaydoc.onrender.com-22C55E?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo">
   </a>
-  <a href="https://github.com/jadenfix/smartpaydoc" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Repo-github.com%2Fjadenfix%2Fsmartpaydoc-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40"
-      alt="SmartPayDoc Repo"
-    />
+  <a href="https://github.com/jadenfix/smartpaydoc">
+    <img src="https://img.shields.io/badge/Repo-github.com%2Fjadenfix%2Fsmartpaydoc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
   </a>
 </p>
 
-### 🏷️ Master’s Thesis: C++-Powered High-Performance Trading Website
-- **Overview:** Full-stack trading platform featuring a **C++** simulation engine, **TypeScript/Node.js** backend, and **React** frontend.  
-- **Performance:** Achieves **1000× speedup** in strategy execution versus Python.  
-- **Features:** Secure REST API, interactive dashboards showing P&L, drawdown, win rate, and more.  
-- **Data:** Powered by multi-year, 1️⃣-minute historical market data.
+---
 
+### 2. Master’s Thesis – C++ High-Performance Trading Platform  
+**Overview:** Full-stack trading site featuring a C++ strategy engine (×1000 speedup vs. Python), TypeScript/Node.js backend, and React dashboard.  
+- **Security:** RESTful API with robust authentication  
+- **Analytics:** Interactive P&L, drawdown, win-rate visualizations  
+- **Data:** Multi-year, 1-minute OHLC market feeds  
 <p align="center">
   <a href="https://github.com/jadenfix/financial_cpp">
-    <img src="https://img.shields.io/badge/C%2B%2B_Backend-financial__cpp-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=40" alt="C++ Backend Engine" />
+    <img src="https://img.shields.io/badge/C%2B%2B_Backend-financial__cpp-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Backend">
   </a>
   <a href="https://github.com/jadenfix/trading_website">
-    <img src="https://img.shields.io/badge/Full_Website-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&logoWidth=40" alt="Full Website" />
+    <img src="https://img.shields.io/badge/Full_Website-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Frontend">
   </a>
 </p>
 
-### 🤖 Supervised Fine-Tuning: Local LLMs for Coding Agents
-- **Purpose:** Toolkit for supervised fine-tuning of local large language models to create specialized coding assistants.  
-- **Components:** Data preprocessing pipelines, training scripts, and local deployment guidelines.  
-- **Use Case:** Run coding agents entirely on local hardware for privacy and performance.
+---
 
+### 3. Supervised Fine-Tuning Toolkit for Local LLMs  
+**Purpose:** End-to-end pipeline for fine-tuning local large language models into specialized coding assistants.  
+- **Data Prep:** Tokenization, prompt/response alignment  
+- **Training Scripts:** Configurable hyperparameters & logging  
+- **Deployment:** Guidelines for on-premise inference  
 <p align="center">
   <a href="https://github.com/jadenfix/supervised_fine_tuning">
-    <img src="https://img.shields.io/badge/SFT-LLM_Agents-FFA500?style=for-the-badge&logo=openai&logoColor=white&logoWidth=40" alt="Supervised Fine-Tuning" />
+    <img src="https://img.shields.io/badge/SFT-LLM__Agents-FFA500?style=for-the-badge&logo=openai&logoColor=white" alt="SFT LLM Agents">
   </a>
 </p>
 
-### 🔗 Solana Cryptocurrency Platforms
-Developing platforms on the Solana blockchain using quantitative strategies for algorithmic trading of alternative assets.
+---
 
+### 4. Solana Quantitative Trading Tools  
+Developed on-chain and off-chain modules for algorithmic asset trading on Solana.  
 <p align="center">
   <a href="https://github.com/jadenfix/solanatools">
-    <img src="https://img.shields.io/badge/Solana_Tools-Quantitative_Strategies-00FFA3?style=for-the-badge&logo=solana&logoColor=white&logoWidth=40" alt="Solana Tools" />
+    <img src="https://img.shields.io/badge/Solana_Tools-Quant_Strats-00FFA3?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Tools">
   </a>
 </p>
 
-### 📈 Predictive Stochastic Modeling for Financial Markets
-Award-winning undergraduate thesis on predictive models for financial markets.
+---
 
+### 5. Predictive Stochastic Modeling  
+Awarded for undergraduate thesis on Markov-switching models and predictive regressions forecasting market regimes.  
 <p align="center">
   <a href="https://github.com/jadenfix/Predictive-Stochastic-Modeling-for-Financial-Markets">
-    <img src="https://img.shields.io/badge/Predictive_Stochastic-Financial_Markets-4B8BBE?style=for-the-badge&logo=R&logoColor=blue&logoWidth=40" alt="Predictive Modeling" />
+    <img src="https://img.shields.io/badge/Predictive_Stochastic-Fin_Markets-4B8BBE?style=for-the-badge&logo=R&logoColor=white" alt="Predictive Modeling">
   </a>
 </p>
 
-### 🗣️ Natural Language Processing Projects
-Experiments in NLP with custom models and pipelines.
+---
 
+### 6. NLP & Bayesian Deep Learning  
+- **NLP Pipelines:** Custom tokenizers & transformer prototypes  
+- **Bayesian CNN:** Uncertainty estimation on CIFAR-10  
 <p align="center">
   <a href="https://github.com/jadenfix/NLP">
-    <img src="https://img.shields.io/badge/NLP_Projects-HuggingFace-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white&logoWidth=40" alt="NLP Projects" />
+    <img src="https://img.shields.io/badge/NLP-HuggingFace-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP">
   </a>
-</p>
-
-### 🔬 Bayesian Neural Network for CIFAR-10
-Image classification using Bayesian neural nets.
-
-<p align="center">
   <a href="https://github.com/jadenfix/Bayesian-Neural-Network-for-CIFAR-10-Image-Classification">
-    <img src="https://img.shields.io/badge/Bayesian_NN-CIFAR--10-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=40" alt="Bayesian Neural Network" />
+    <img src="https://img.shields.io/badge/Bayesian_NN-CIFAR--10-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Bayesian NN">
   </a>
 </p>
 
-### 📚 C++ Fundamentals
-High-performance C++11 Order Book & Matching Engine simulator demonstrating low-latency trading logic.
+---
 
+### 7. C++ Fundamentals – Order Book & Matching Engine  
+High-throughput, low-latency simulator showcasing order-matching algorithms and performance tuning.  
 <p align="center">
   <a href="https://github.com/jadenfix/cpp_fundamentals">
-    <img src="https://img.shields.io/badge/C%2B%2B_Fundamentals-OrderBook-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=40" alt="C++ Fundamentals" />
+    <img src="https://img.shields.io/badge/C%2B%2B_Fundamentals-OrderBook-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Fundamentals">
   </a>
 </p>
 
-### 🔗 Other Repositories
-Explore all my work here:
+---
 
+### 🔗 Explore All Repositories  
 <p align="center">
   <a href="https://github.com/jadenfix?tab=repositories">
-    <img src="https://img.shields.io/badge/All_Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40" alt="All Repos" />
+    <img src="https://img.shields.io/badge/All_Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-## 🎯 Additional Interests
-- **Fitness & Training**
+---
 
+## 🎯 Additional Interests  
+- Fitness & Training  
 <p align="center">
-  <a href="https://www.strava.com/athletes/14937614">
-    <img src="https://img.shields.io/badge/Follow_on-Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white&logoWidth=40" alt="Strava" />
+  <a href="https://www.strava.com/athletes/14937614" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on-Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava">
   </a>
 </p>
 
-## 📫 Let’s Connect
+---
 
+## 📫 Connect With Me  
 <p align="center">
   <a href="mailto:jpfix@calpoly.edu">
-    <img src="https://img.shields.io/badge/Email-jpfix@calpoly.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-jpfix@calpoly.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/jadenfix/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaden_Fix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jaden_Fix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-## ⚡ Availability
-Seeking opportunities starting June 2025 (SF/NYC/Chicago preferred, open nationwide).
+---
+
+## ⚡ Availability  
+**Seeking new opportunities starting June 2025**  
+Preferred locations: San Francisco · New York City · Chicago (open nationwide)  
