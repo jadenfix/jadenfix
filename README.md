@@ -10,7 +10,6 @@
 I’m a software engineer and data scientist passionate about building scalable, high-performance systems and delivering impactful data-driven solutions. My favorite Languages/Frameworks are C++, TypeScript, React, and Python, I bridge cutting-edge engineering with real-world business needs.
 
 ## 🛠️ Projects & Research
-
 ### 💳 SmartPayDoc: AI-Powered Stripe Assistant
 - **Overview:** AI-powered developer assistant for Stripe integrations—ask questions, generate boilerplate, debug errors, and inspect webhooks in natural language.  
 - **Live Demo:** [smartpaydoc.onrender.com](https://smartpaydoc.onrender.com/)  
@@ -24,14 +23,46 @@ I’m a software engineer and data scientist passionate about building scalable,
 - **Tech Stack:** FastAPI · Typer · Rich · Anthropic Claude · FAISS · Stripe SDK  
 
 <p align="center">
-  <a href="https://smartpaydoc.onrender.com">
-    <img src="https://img.shields.io/badge/Live-Demo-smartpaydoc.onrender.com-22C55E?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo" />
+  <a
+    href="https://smartpaydoc.onrender.com"
+    target="_blank"
+    style="
+      display: inline-block;
+      padding: 0.75em 1.5em;
+      border-radius: 12px;
+      background: linear-gradient(90deg, #4ade80, #22c55e);
+      color: #ffffff;
+      font-weight: 600;
+      text-decoration: none;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    "
+    onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)';"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+  >
+    🚀 Live Demo
   </a>
-  <a href="https://github.com/jadenfix/smartpaydoc">
-    <img src="https://img.shields.io/badge/Repo-github.com/jadenfix/smartpaydoc-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartPayDoc Repo" />
+  <a
+    href="https://github.com/jadenfix/smartpaydoc"
+    target="_blank"
+    style="
+      display: inline-block;
+      margin-left: 1em;
+      padding: 0.75em 1.5em;
+      border-radius: 12px;
+      background: #181717;
+      color: #ffffff;
+      font-weight: 600;
+      text-decoration: none;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    "
+    onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)';"
+    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';"
+  >
+    📂 View Repo
   </a>
 </p>
-
 ### 🏷️ Master’s Thesis: C++-Powered High-Performance Trading Website
 - **Overview:** Full-stack trading platform featuring a **C++** simulation engine, **TypeScript/Node.js** backend, and **React** frontend.  
 - **Performance:** Achieves **1000× speedup** in strategy execution versus Python.  
