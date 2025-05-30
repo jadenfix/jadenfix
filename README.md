@@ -32,8 +32,6 @@ I’m a software engineer and data scientist passionate about building scalable,
   </a>
 </p>
 
----
-
 ### 🏷️ Master’s Thesis: C++-Powered High-Performance Trading Website
 - **Overview:** Full-stack trading platform featuring a **C++** simulation engine, **TypeScript/Node.js** backend, and **React** frontend.  
 - **Performance:** Achieves **1000× speedup** in strategy execution versus Python.  
