@@ -262,9 +262,13 @@
   </a>
 </p>
 
-<h2 align="center">beyond code</h2>
+<h2 align="center">beyond code</h2>
 <p align="center">
-  Endurance athlete & strength‑training enthusiast — <a href="https://www.strava.com/athletes/14937614" target="_blank">Strava profile</a>
+  Endurance athlete & strength-training enthusiast —
+  <a href="https://www.strava.com/athletes/14937614" target="_blank">
+    <img src="https://img.shields.io/badge/Strava-FE5000?style=for-the-badge&logo=strava&logoColor=white"
+         alt="Strava">
+  </a>
 </p>
 
 <!-- ─────────────  CONNECT  ───────────── -->
