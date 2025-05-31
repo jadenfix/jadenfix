@@ -85,44 +85,17 @@
 <br>
 </details>
 
-<!-- ─────────────  CRYPTO & QUANT  ───────────── -->
+<!-- ─────────────  CRYPTOCURRENCY  ───────────── -->
 <details>
-<summary align="center"><strong>🪙&nbsp;Cryptocurrency &amp; Quantitative Finance</strong></summary>
+<summary align="center"><strong>🪙 Cryptocurrency</strong></summary>
 
 <br>
-
-<table align="center"><tr><td align="center">
-  <a href="https://github.com/jadenfix/financial_cpp">
-    <img src="https://img.shields.io/badge/C++‑Engine-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a><br>
-  1000× speed trading engine
-</td></tr></table>
-
-<br><br>
-
-<table align="center"><tr><td align="center">
-  <a href="https://github.com/jadenfix/trading_website">
-    <img src="https://img.shields.io/badge/React_UI-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  </a><br>
-  Interactive dashboards
-</td></tr></table>
-
-<br><br>
-
-<table align="center"><tr><td align="center">
-  <a href="https://github.com/jadenfix/solanatools">
-    <img src="https://img.shields.io/badge/solanatools-00FFA3?style=for-the-badge&logo=solana&logoColor=white">
-  </a><br>
-  Solana on‑chain/off‑chain toolkit
-</td></tr></table>
-
-<br><br>
 
 <table align="center"><tr><td align="center">
   <a href="https://github.com/jadenfix/python_crypto_trading_engine">
     <img src="https://img.shields.io/badge/Python_Engine-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a><br>
-  Back‑tester & live execution
+  Python back-tester & live execution engine
 </td></tr></table>
 
 <br><br>
@@ -131,7 +104,41 @@
   <a href="https://github.com/jadenfix/mft_crypto_research">
     <img src="https://img.shields.io/badge/MFT_Research-795548?style=for-the-badge&logo=bitcoin&logoColor=white">
   </a><br>
-  Momentum‑factor studies
+  Mid-frequency trading studies
+</td></tr></table>
+
+<br><br>
+
+<table align="center"><tr><td align="center">
+  <a href="https://github.com/jadenfix/solanatools">
+    <img src="https://img.shields.io/badge/solanatools-00FFA3?style=for-the-badge&logo=solana&logoColor=white">
+  </a><br>
+  Solana on-chain/off-chain toolkit
+</td></tr></table>
+
+<br>
+</details>
+
+<!-- ────────────  QUANTITATIVE FINANCE  ──────────── -->
+<details>
+<summary align="center"><strong>📈 Quantitative Finance</strong></summary>
+
+<br>
+
+<table align="center"><tr><td align="center">
+  <a href="https://github.com/jadenfix/financial_cpp">
+    <img src="https://img.shields.io/badge/C++-Engine-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a><br>
+  1000× speed (vs Python) trading engine
+</td></tr></table>
+
+<br><br>
+
+<table align="center"><tr><td align="center">
+  <a href="https://github.com/jadenfix/trading_website">
+    <img src="https://img.shields.io/badge/React_UI-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  </a><br>
+  Interactive trading dashboards
 </td></tr></table>
 
 <br><br>
@@ -140,7 +147,7 @@
   <a href="https://github.com/jadenfix/masters_thesis_cold_runs">
     <img src="https://img.shields.io/badge/Cold_Runs-607D8B?style=for-the-badge&logo=notion&logoColor=white">
   </a><br>
-  Extended experiment logs
+  Extended quantitative experiment logs
 </td></tr></table>
 
 <br>
@@ -182,15 +189,6 @@
     <img src="https://img.shields.io/badge/Stochastic_Modeling-4B8BBE?style=for-the-badge&logo=r&logoColor=white">
   </a><br>
   Markov switching & β‑regressions
-</td></tr></table>
-
-<br><br>
-
-<table align="center"><tr><td align="center">
-  <a href="https://github.com/jadenfix/mft_crypto_research">
-    <img src="https://img.shields.io/badge/MFT_Research-795548?style=for-the-badge&logo=bitcoin&logoColor=white">
-  </a><br>
-  Momentum‑factor studies
 </td></tr></table>
 
 <br>
