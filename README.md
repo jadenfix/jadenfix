@@ -51,11 +51,20 @@
 </p>
 <br>
 
-<!-- ─────────────  AI‑POWERED APPLICATIONS  ───────────── -->
+<!-- ─────────────  AI-POWERED APPLICATIONS  ───────────── -->
 <details open>
-<summary align="center"><strong>🤖&nbsp;AI‑Powered&nbsp;Applications</strong></summary>
+<summary align="center"><strong>🤖&nbsp;AI-Powered&nbsp;Applications</strong></summary>
 
 <br>
+
+<table align="center"><tr><td align="center">
+  <a href="https://github.com/jadenfix/MiniGPTEngine-CPP">
+    <img src="https://img.shields.io/badge/MiniGPTEngine-CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a><br>
+  C++ GPT inference engine — load quantized LLM weights & generate text
+</td></tr></table>
+
+<br><br>
 
 <table align="center"><tr><td align="center">
   <a href="https://github.com/jadenfix/smartpaydoc">
@@ -68,9 +77,9 @@
 
 <table align="center"><tr><td align="center">
   <a href="https://github.com/jadenfix/supervised_fine_tuning">
-    <img src="https://img.shields.io/badge/SFT‑Toolkit-FFA500?style=for-the-badge&logo=openai&logoColor=white">
+    <img src="https://img.shields.io/badge/SFT-Toolkit-FFA500?style=for-the-badge&logo=openai&logoColor=white">
   </a><br>
-  Local LLM fine‑tuning pipeline
+  Local LLM fine-tuning pipeline
 </td></tr></table>
 
 <br><br>
