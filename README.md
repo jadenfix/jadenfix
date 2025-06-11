@@ -60,7 +60,7 @@
   <a href="https://github.com/jadenfix/InvoiceFlowAgent">
     <img src="https://img.shields.io/badge/InvoiceFlowAgent-6C63FF?style=for-the-badge&logo=github&logoColor=white">
   </a><br>
-  A production-grade microservices architecture for automated invoice processing using FastAPI, PostgreSQL, OpenSearch, and RabbitMQ
+  Production-grade microservices architecture for automated invoice processing
 </td></tr></table>
 
 <br><br>
@@ -69,7 +69,7 @@
   <a href="https://github.com/jadenfix/OrbitAgents">
     <img src="https://img.shields.io/badge/OrbitAgents-0288D1?style=for-the-badge&logo=github&logoColor=white">
   </a><br>
-  An AI-powered search engine optimized for discovering and analyzing real estate and land assets
+  AI-powered search engine optimized for discovering and analyzing real estate and land assets
 </td></tr></table>
 
 <br><br>
