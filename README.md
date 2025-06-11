@@ -50,12 +50,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="46" />
 </p>
 <br>
-
 <!-- ─────────────  AI-POWERED APPLICATIONS  ───────────── -->
 <details open>
-<summary align="center"><strong>🤖&nbsp;AI-Powered&nbsp;Applications</strong></summary>
+<summary align="center"><strong>🤖 AI-Powered Applications</strong></summary>
 
 <br>
+
+<table align="center"><tr><td align="center">
+  <a href="https://github.com/jadenfix/InvoiceFlowAgent">
+    <img src="https://img.shields.io/badge/InvoiceFlowAgent-6C63FF?style=for-the-badge&logo=github&logoColor=white">
+  </a><br>
+  A production-grade microservices architecture for automated invoice processing using FastAPI, PostgreSQL, OpenSearch, and RabbitMQ
+</td></tr></table>
+
+<br><br>
 
 <table align="center"><tr><td align="center">
   <a href="https://github.com/jadenfix/MiniGPTEngine-CPP">
