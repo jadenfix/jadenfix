@@ -66,6 +66,15 @@
 <br><br>
 
 <table align="center"><tr><td align="center">
+  <a href="https://github.com/jadenfix/OrbitAgents">
+    <img src="https://img.shields.io/badge/OrbitAgents-0288D1?style=for-the-badge&logo=github&logoColor=white">
+  </a><br>
+  An AI-powered search engine optimized for discovering and analyzing real estate and land assets
+</td></tr></table>
+
+<br><br>
+
+<table align="center"><tr><td align="center">
   <a href="https://github.com/jadenfix/MiniGPTEngine-CPP">
     <img src="https://img.shields.io/badge/MiniGPTEngine-CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a><br>
