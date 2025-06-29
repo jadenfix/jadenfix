@@ -56,17 +56,20 @@
 
   <br>
 
-<td align="center">
-  <a href="https://github.com/jadenfix/HumanVoiceAI">
-    <img src="https://img.shields.io/badge/VoiceAI-7E57C2?style=for-the-badge&logo=github&logoColor=white">
-  </a><br>
-  A full stack application real-time emotion-aware voice agent that adapts responses based on speech emotion recognition and reinforcement learning.<br>
-  Deployed on 
-  <a href="https://human-voice-ai-frontend.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/VERCEL-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy on Vercel">
-  </a>
-</td>
-</td></tr></table>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jadenfix/HumanVoiceAI">
+          <img src="https://img.shields.io/badge/VoiceAI-7E57C2?style=for-the-badge&logo=github&logoColor=white">
+        </a><br>
+        A full stack application real-time emotion-aware voice agent that adapts responses based on speech emotion recognition and reinforcement learning.<br>
+        Deployed on
+        <a href="https://human-voice-ai-frontend.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/VERCEL-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy on Vercel">
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br>
 </details>
