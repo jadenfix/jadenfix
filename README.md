@@ -50,57 +50,27 @@
 </p>
 <br>
 
-<!-- ─────────────  HUMAN–COMPUTER INTERACTION  ───────────── -->
-<details open>
-  <summary align="center"><strong>🖥️ Human – Computer Interaction</strong></summary>
 
-  <br>
-
-  <table align="center">
-    <tr>
-      <td align="center" style="border:1px solid #444; padding:16px; border-radius:8px;">
-
-        <!-- Node.js + VoiceAI badges -->
-        <a href="https://github.com/jadenfix/HumanVoiceAI" target="_blank">
-          <img
-            src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
-            alt="Node.js"
-          />
-          <img
-            src="https://img.shields.io/badge/VoiceAI-7E57C2?style=for-the-badge&logo=googleassistant&logoColor=white"
-            alt="VoiceAI"
-          />
-        </a>
-
-        <br/><br/>
-
-        A full stack application real-time emotion-aware voice agent that adapts responses based on speech emotion recognition and reinforcement learning.
-
-        <br/><br/>
-
-        Deployed on&nbsp;
-        <a href="https://human-voice-ai-frontend.vercel.app/" target="_blank">
-          <img
-            src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"
-            alt="Deploy on Vercel"
-          />
-        </a>
-
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-</details>
 <!-- ─────────────  AI-POWERED APPLICATIONS  ───────────── -->
 <details>
 <summary align="center"><strong>🤖 AI-Powered Applications</strong></summary>
 
 <br>
+<table align="center"><tr><td align="center">
+  <a href="https://github.com/jadenfix/HumanVoiceAI">
+    <img src="https://img.shields.io/badge/HumanVoiceAI-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="HumanVoiceAI"/>
+  </a><br><br>
+  A real-time emotion-aware voice agent that adapts responses based on speech emotion recognition and reinforcement learning.<br><br>
+  <a href="https://human-voice-ai-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/Deployed-on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed on Vercel"/>
+  </a>
+</td></tr></table>
+
+<br><br>
 
 <table align="center"><tr><td align="center">
   <a href="https://github.com/jadenfix/InvoiceFlowAgent">
-    <img src="https://img.shields.io/badge/InvoiceFlowAgent-6C63FF?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/InvoiceFlowAgent-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="InvoiceFlowAgent"/>
   </a><br>
   Production-grade microservices architecture for automated invoice processing
 </td></tr></table>
