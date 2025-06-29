@@ -62,7 +62,7 @@
   </a><br><br>
   A real-time emotion-aware voice agent that adapts responses based on speech emotion recognition and reinforcement learning.<br><br>
   <a href="https://human-voice-ai-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/Deployed-on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed on Vercel"/>
+  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed on Vercel"/>
   </a>
 </td></tr></table>
 
