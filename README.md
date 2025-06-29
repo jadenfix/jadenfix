@@ -51,6 +51,7 @@
 <br>
 
 <!-- ─────────────  HUMAN–COMPUTER INTERACTION  ───────────── -->
+<!-- ─────────────  HUMAN–COMPUTER INTERACTION  ───────────── -->
 <details open>
   <summary align="center"><strong>🖥️ Human – Computer Interaction</strong></summary>
 
@@ -58,7 +59,7 @@
 
   <table align="center">
     <tr>
-      <td align="center">
+      <td align="center" style="border:1px solid #444; padding:16px; border-radius:8px;">
         <a href="https://github.com/jadenfix/HumanVoiceAI">
           <img src="https://img.shields.io/badge/VoiceAI-7E57C2?style=for-the-badge&logo=github&logoColor=white">
         </a><br>
