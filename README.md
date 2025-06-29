@@ -52,7 +52,7 @@
 
 <!-- ─────────────  HUMAN–COMPUTER INTERACTION  ───────────── -->
 <!-- ─────────────  HUMAN–COMPUTER INTERACTION  ───────────── -->
-<details open>
+<details>
   <summary align="center"><strong>🖥️ Human – Computer Interaction</strong></summary>
 
   <br>
@@ -76,7 +76,7 @@
 </details>
 
 <!-- ─────────────  AI-POWERED APPLICATIONS  ───────────── -->
-<details open>
+<details>
 <summary align="center"><strong>🤖 AI-Powered Applications</strong></summary>
 
 <br>
