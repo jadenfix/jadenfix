@@ -49,6 +49,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="46" />
 </p>
 <br>
+
+<!-- ─────────────  HUMAN–COMPUTER INTERACTION  ───────────── -->
+<details open>
+  <summary align="center"><strong>🖥️ Human – Computer Interaction</strong></summary>
+
+  <br>
+
+  <table align="center"><tr><td align="center">
+    <a href="https://github.com/jadenfix/HumanVoiceAI">
+      <img src="https://img.shields.io/badge/VoiceAI-7E57C2?style=for-the-badge&logo=github&logoColor=white">
+    </a><br>
+    A full stack application real-time emotion-aware voice agent that adapts responses based on speech emotion recognition and reinforcement learning.<br>
+    Deployed on <a href="https://human-voice-ai-frontend.vercel.app/">human-voice-ai-frontend.vercel.app</a>
+  </td></tr></table>
+
+  <br>
+</details>
+
 <!-- ─────────────  AI-POWERED APPLICATIONS  ───────────── -->
 <details open>
 <summary align="center"><strong>🤖 AI-Powered Applications</strong></summary>
