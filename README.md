@@ -324,5 +324,5 @@
 <!-- ─────────────  AVAILABILITY  ───────────── -->
 <h2 align="center">availability</h2>
 <p align="center">
-  Open to roles in **SF · NYC · Chicago** — remote‑friendly
+  Open to roles in SF or Remote (Unless the pay is crazy good)
 </p>
