@@ -312,7 +312,7 @@
 <!-- ─────────────  CONNECT  ───────────── -->
 <h2 align="center">connect</h2>
 <p align="center">
-  <a href="mailto:jpfix@calpoly.edu">
+  <a href="mailto:jadenfix123@gmail.com">
     <img src="https://img.shields.io/badge/Email‑Me-D14836?style=for-the-badge&labelColor=000&logo=gmail&logoColor=white">
   </a>
   &nbsp;
