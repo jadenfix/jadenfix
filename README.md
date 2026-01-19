@@ -320,9 +320,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=000&logo=linkedin&logoColor=white">
   </a>
 </p>
-
-<!-- ─────────────  AVAILABILITY  ───────────── -->
-<h2 align="center">availability</h2>
-<p align="center">
-  Open to roles in SF or Remote (Unless the pay is crazy good)
-</p>
