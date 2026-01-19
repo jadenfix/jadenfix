@@ -3,7 +3,7 @@
   <img src="assets/hero_dark.webp" alt="Galaxy hero banner" width="100%">
 </p>
 <h1 align="center" style="margin-top:-2.6rem">
-  <b>jadenfix&nbsp;· high‑performance&nbsp;software · data · ml</b>
+  <b>jadenfix&nbsp;· user-friendly&nbsp;software · data · ml</b>
 </h1>
 
 <!-- ACTION BUTTONS -->
