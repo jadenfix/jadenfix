@@ -40,7 +40,7 @@ I develop and deploy production AI agents operating in enterprise environments.
 
 ## Outside of Work
 
-I build arbitrage trading systems on platforms like :contentReference[oaicite:0]{index=0}.
+I build arbitrage trading systems on platforms like Kalshi.
 
 - Rust-based algorithmic execution engines  
 - Automated opportunity detection across binary markets  
