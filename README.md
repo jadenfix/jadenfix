@@ -1,7 +1,7 @@
 # Jaden Fix
 
 <p align="center">
-  <img[image (6)](https://github.com/user-attachments/assets/f8f0efb9-edc5-48e2-a5fd-f6c9fca437b1)
+  <img[image (6)](https://github.com/user-attachments/assets/f8f0efb9-edc5-48e2-a5fd-f6c9fca437b1)<img>
 tor"/>
 </p>
 
