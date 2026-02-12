@@ -2,21 +2,19 @@
 
 # Jaden Fix
 
-### AI Agent Engineer · Distributed Systems · Autonomous Infrastructure  
+### Full-Time AI Agent Engineer - Part-Time Trader
 AI Agent Engineer @ Roe (YC F24) | San Francisco Bay Area
 
 ---
 
 ## About
 
-I design and deploy production AI agents operating in enterprise environments.
+I develop and deploy production AI agents operating in enterprise environments.
 
 - Multi-step, Temporal-orchestrated agent systems  
 - Compliance, AML, and risk automation  
 - Audit-first, artifact-driven architecture  
 - Deep integration with real infrastructure  
-
-I build systems that **reason, retrieve, validate, and act**.
 
 ---
 
@@ -32,20 +30,24 @@ I build systems that **reason, retrieve, validate, and act**.
 
 ## Stack
 
-**LLMs:** Claude, GPT, tool-using agents, RAG  
-**Infra:** AWS, EKS, Vercel, Terraform  
-**Data:** ClickHouse, AWS  
+**LLMs:** Claude, GPT, tool-using agents with context management  
+**Infra:** AWS, EKS, Vercel, Terraform, Kubernetes  
+**Data:** ClickHouse, AWS stack  
 **Backend:** Python, TypeScript, Go, Rust  
-**Frontend:** Next.js, React  
+**Frontend:** Next.js, React, Django
 
 ---
 
-## Philosophy
+## Outside of Work
 
-- Traceable systems  
-- Deterministic guardrails  
-- Structured outputs  
-- Horizontally scalable design  
+I build arbitrage trading systems on platforms like :contentReference[oaicite:0]{index=0}.
+
+- Rust-based algorithmic execution engines  
+- Automated opportunity detection across binary markets  
+- Fee-aware EV modeling & latency-sensitive order routing  
+- LLM-assisted workflows for market classification, filtering, and strategy/execution orchestration  
+
+Focused on combining deterministic trading logic with intelligent market parsing and automated execution (or keeping them seperate).
 
 ---
 
