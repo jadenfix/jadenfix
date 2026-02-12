@@ -1,9 +1,6 @@
-# Jaden Fix
+![Rori](https://github.com/user-attachments/assets/f8f0efb9-edc5-48e2-a5fd-f6c9fca437b1)
 
-<p align="center">
-  <img[image (6)](https://github.com/user-attachments/assets/f8f0efb9-edc5-48e2-a5fd-f6c9fca437b1)<img>
-tor"/>
-</p>
+# Jaden Fix
 
 ### AI Agent Engineer · Distributed Systems · Autonomous Infrastructure  
 AI Agent Engineer @ Roe (YC F24) | San Francisco Bay Area
@@ -12,14 +9,14 @@ AI Agent Engineer @ Roe (YC F24) | San Francisco Bay Area
 
 ## About
 
-I design and deploy production AI agents that operate in enterprise environments.
+I design and deploy production AI agents operating in enterprise environments.
 
 - Multi-step, Temporal-orchestrated agent systems  
 - Compliance, AML, and risk automation  
 - Audit-first, artifact-driven architecture  
 - Deep integration with real infrastructure  
 
-I build and deploy systems that **reason, retrieve, validate, and act**.
+I build systems that **reason, retrieve, validate, and act**.
 
 ---
 
@@ -37,7 +34,7 @@ I build and deploy systems that **reason, retrieve, validate, and act**.
 
 **LLMs:** Claude, GPT, tool-using agents, RAG  
 **Infra:** AWS, EKS, Vercel, Terraform  
-**Data:** ClickHouse, AWS
+**Data:** ClickHouse, AWS  
 **Backend:** Python, TypeScript, Go, Rust  
 **Frontend:** Next.js, React  
 
