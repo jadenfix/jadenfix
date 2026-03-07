@@ -33,8 +33,6 @@ I develop and deploy production AI agents operating in enterprise environments.
 **LLMs:** Claude, GPT, tool-using agents with context management  
 **Infra:** AWS, EKS, Vercel, Terraform, Kubernetes  
 **Data:** ClickHouse, AWS stack  
-**Backend:** Python, TypeScript, Go, Rust  
-**Frontend:** Next.js, React, Django
 
 ---
 
