@@ -2,7 +2,7 @@
 
 # Jaden Fix
 
-### Full-Time AI Agent Engineer - Part-Time Trader
+### Full-Time AI Agent Engineer
 AI Agent Engineer @ Roe (YC F24) | San Francisco Bay Area
 
 ---
