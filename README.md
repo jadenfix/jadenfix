@@ -2,7 +2,7 @@
 
 # Jaden Fix
 
-### Full-Time AI Agent Engineer
+### Full-Time AI Agent Engineer | Part time LLM Researcher
 
 AI Agent Engineer @ Roe (YC F24) | San Francisco Bay Area
 
