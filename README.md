@@ -12,7 +12,7 @@ AI Agent Engineer @ Roe (YC F24) | San Francisco Bay Area
 
 I develop and deploy production AI agents operating in enterprise environments.
 
-Separately, I explore how learning systems can be trained more like humans—through feedback, revision, and structured reasoning—grounded in quantitative/abstract methods.
+Separately, I explore how learning systems can be trained more like humans - through feedback, revision, and structured reasoning - grounded in quantitative/abstract methods.
 
 * Multi-step, Temporal-orchestrated agent systems
 * Compliance, AML, and risk automation
@@ -57,7 +57,7 @@ I study how to formalize learning processes observed in humans:
 * Balancing exploration vs. correctness under uncertainty
 * Structuring training signals using statistical and econometric principles
 
-I approach this from a quantitative lens—thinking in terms of signal, noise, bias, and identifiability—rather than heuristics - if there is ever a way I can borrow from another field such as physics, economics, neuroscience, or mathematics I take that opportunity.
+I approach this from a quantitative POV - thinking in terms of signal, noise, bias, and identifiability—rather than heuristics - if there is ever a way I can borrow from another field such as physics, economics, neuroscience, or mathematics I take that opportunity.
 
 ---
 
