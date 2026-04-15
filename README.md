@@ -42,8 +42,11 @@ Separately, I explore how learning systems can be trained more like humans - thr
 ## Stack
 
 **LLMs:** Tool-using agents with context management, evaluations on large and small models
+
 **Infra:** AWS, EKS, Vercel, Terraform, Kubernetes
+
 **Data:** ClickHouse, AWS stack
+
 **Research:** Python, JAX, PyTorch, statistical modeling, deep quantitative methods
 
 ---
