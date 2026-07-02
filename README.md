@@ -1,17 +1,13 @@
-![Rori](https://github.com/user-attachments/assets/f8f0efb9-edc5-48e2-a5fd-f6c9fca437b1)
-
 # Jaden Fix
 
-### Full-Time AI Agent Engineer | Part time LLM Researcher
+### SWE @ Scale AI | San Francisco
 
-AI Agent Engineer @ Roe (YC F24) | San Francisco Bay Area
-
+### Please Check out the Beater series: jadenfix/beater and others 
 ---
 
 ## Connect
 
 LinkedIn: [https://linkedin.com/in/jadenfix](https://linkedin.com/in/jadenfix)
-Location: San Francisco Bay Area
 
 ---
 
