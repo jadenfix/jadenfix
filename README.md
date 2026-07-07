@@ -2,7 +2,7 @@
 
 ### SWE @ Scale AI | San Francisco
 
-### Please Check out the Beater series: jadenfix/beater and others 
+### Please Check out the Temp series: jadenfix/palette and others 
 ---
 
 ## Connect
