@@ -1,8 +1,7 @@
 # Jaden Fix
 
-### SWE @ Scale AI | San Francisco
+### SWE @ Scale AI | Founder @ [tempera.dev](tempera.dev) [Github](https://github.com/tempera-dev)| San Francisco
 
-### Please Check out the Temp series: jadenfix/palette and others 
 ---
 
 ## Connect
