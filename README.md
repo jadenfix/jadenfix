@@ -6,8 +6,6 @@ I'm a software engineer in San Francisco. I'm on the Platform & Applied AI team 
 
 I came to software through economics and statistics, with an M.S. from Cal Poly and an undergrad thesis on forecasting bear markets that won the Adam Smith Award. It still shapes how I build: if a claim can be measured, measure it, and write down what it doesn't show.
 
-Off the keyboard I'm usually splitboarding somewhere in the Sierra.
-
 &nbsp;
 
 ### Research
