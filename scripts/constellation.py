@@ -230,8 +230,8 @@ def frame(t):
     if pass_b and t >= RESULT:
         k = ease((t - RESULT) / 0.6) * master
         x = 60 * S
-        for txt, col in (("SUCCESS AFTER TRAINING      ", FAINT), ("OUTCOME-ONLY ", MUTE), ("0.24", RED), ("      UNTRAINED ", MUTE),
-                         ("0.79", TXT), ("      BRANCH-AWARE ", MUTE), ("1.00", WARM)):
+        for txt, col in (("CONTROLLED BENCHMARK, POLICY SUCCESS      ", FAINT), ("OUTCOME-ONLY ", MUTE), ("0.24", RED),
+                         ("      PROMPTED BASELINE ", MUTE), ("0.79", TXT), ("      BRANCH-AWARE + HINDSIGHT ", MUTE), ("1.00", WARM)):
             db.text((x, ly * S), txt, font=f_mono, fill=mix(col, k))
             x += db.textlength(txt, font=f_mono)
 
