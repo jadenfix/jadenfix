@@ -41,7 +41,7 @@ An agent platform I'm building on my own time, mostly in Rust. The idea: agents 
 
 | | |
 |:--|:--|
-| [**FullStack-Bench**](https://github.com/jadenfix/FullStack-Bench) | Can an agent ship a full-stack change without paging anyone? Agents work on SimCloud, a simulated cloud with synthetic users on prod and a hash-chained incident log. Across 84 graded runs, 38 passed the usual final-state check but failed the whole-episode safety check. |
+| [**FullStack-Bench**](https://github.com/jadenfix/FullStack-Bench) | Can an agent ship a full-stack change without paging anyone? Agents work on SimCloud, a simulated cloud with synthetic users on prod and a hash-chained incident log. Of 83 graded runs, 38 passed the usual final-state check but failed the whole-episode safety check. |
 | [**rusty**](https://github.com/jadenfix/rusty) | A coding agent in one static Rust binary, with about 400 tests. A goal only closes when a pinned check passes, and its permission classifier reads what `npm run`, heredocs and `ssh` will actually execute before deciding to ask. |
 | [**Spacewind**](https://github.com/jadenfix/space-simulation-engine) | A dependency-free C11 physics engine for sailing on sunlight: Kerr geodesics, solar wind, 3D electromagnetic particle-in-cell. Its assurance run passes about 233,000 checks with zero failures, and every claim file lists what it does *not* show. The black hole above is the same physics, [ray-traced](scripts/blackhole.py). |
 | [**ReplayKit**](https://github.com/jadenfix/ReplayKit) | Time-travel debugging for agent runs. Fork any step, patch it, replay only what's downstream, and diff. |
